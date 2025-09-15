@@ -1,15 +1,15 @@
 ## Welcome
 
-<h1>Hi, I'm Yesenia! <br/><a href="https://github.com/yy550">Graduate Student</a> <a href="http://bit.ly/45JqLkx">
+<h1>Hi, I'm Yesenia! <br/><a href="https://github.com/yy550">Graduate Student</a>
 
 <h2>👩🏽‍💻 Data Analysis Projects:</h2>
 
 - <b>Python</b>
-  - [Data Analysis Practice in Python](https://github.com/yy550/Python_Practice)
+  - [Pandas & NumPy Practice](https://github.com/yy550/Python_Practice)
 - <b>R</b>
   - [Data Analysis Projects in RStudio](https://github.com/yy550/R_Projects)
 - <b>SQL</b>
-  - [Data Analysis Projects Using SQL](https://github.com/yy550/SQL_Projects)
+  - [Property Management Database Project](https://github.com/yy550/SQL_Projects)
 
 
 
