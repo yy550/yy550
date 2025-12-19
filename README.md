@@ -6,7 +6,7 @@
 
 - <b>Python</b>
   - [Pandas & NumPy Practice](https://github.com/yy550/Python_Practice)
-  - [Regression Analysis]
+  - [Regression Analysis](https://github.com/yy550/Regression_Analysis)
 - <b>R</b>
   - [Data Analysis Projects in RStudio](https://github.com/yy550/R_Projects)
 - <b>SQL</b>
