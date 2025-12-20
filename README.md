@@ -10,7 +10,8 @@
 - <b>R</b>
   - [Data Analysis Projects in RStudio](https://github.com/yy550/R_Projects)
 - <b>SQL</b>
-  - [Property Management Database Project](https://github.com/yy550/SQL_Projects)
+  - [Property Management Database Project (MySQL)](https://github.com/yy550/SQL_Projects)
+  - [Hospital Management Database (PostgreSQL)](https://github.com/yy550/HospitalManagmt)
 
 
 
